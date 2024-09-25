@@ -58,7 +58,6 @@ const App = () => {
             paddingHorizontal: 20,
           }}
         >
-          {ImageAuthor}
           {Quote}
         </Text>
 
